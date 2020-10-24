@@ -30,7 +30,9 @@ In this tutorial, we will develop a simple hand-written digit classifier using M
 <div style="text-align:center">
 <figure>
 <img  src="images/MnistExamples.png" height="350"/>
-<figcaption>MNIST Dataset Examples (Sources: <a href="https://en.wikipedia.org/wiki/MNIST_database">Wikipedia</a>)</figcaption>
+    
+    
+<figcaption>MNIST Dataset Examples (Source: <a href="https://en.wikipedia.org/wiki/MNIST_database">Wikipedia</a>)</figcaption>
 </figure>
 </div>
 
@@ -346,7 +348,10 @@ trainer.fit(model, dataModule)
 
 Now, you can implement your excellent idea by simply changing the DataModule and the learning model part. You do not need to write any extra tedious boilerplate code stuff. Let's start working on your awesome projects....... 
 
-<iframe src="https://giphy.com/embed/PiQejEf31116URju4V" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/memecandy-PiQejEf31116URju4V">via GIPHY</a></p>
+
+<div style="text-align:center">
+<img  src="images/start_work.jpg" height="300"/>
+</div>
 
 To learn more about PyTorch and Pytorch-Lightning you can follow the following resources:
 
